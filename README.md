@@ -28,4 +28,8 @@ java -cp out Main
 
 ![Diagramas UML de Clases y Objetos](POO-Clases-Objetos.svg)
 
+### Herencia
+
+![Diagramas UML de Herencia](POO-Herencia.svg)
+
 En el punto 5 de Clases y Objetos se instancia `Rectangulo`, la clase que pide definir el enunciado. Su área se calcula como base por altura.
