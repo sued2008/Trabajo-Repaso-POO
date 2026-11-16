@@ -24,6 +24,8 @@ java -cp out Main
 
 ## Diagramas UML
 
-El archivo [UML.drawio](UML.drawio) tiene ocho páginas editables en draw.io. El triángulo hueco apunta a la clase padre. Los signos `+`, `-` y `~` indican visibilidad pública, privada y de paquete.
+### Clases y objetos
+
+![Diagramas UML de Clases y Objetos](POO-Clases-Objetos.svg)
 
 En el punto 5 de Clases y Objetos se instancia `Rectangulo`, la clase que pide definir el enunciado. Su área se calcula como base por altura.
